@@ -42,7 +42,7 @@ Main references:\
 
 Holds basic EXIF information like reference to Camera Model, Lens, Date, Focal Length, ISO, Aperture, and Shutter Speed\
 Main references:\
-```AgHarvestedExifMetadata.image = AgLibraryFile.id_local```
+```AgHarvestedExifMetadata.image = Adobe_images.id_local```
 
 **AgHarvestedIptcMetadata**
 
